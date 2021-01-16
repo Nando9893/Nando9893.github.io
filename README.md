@@ -3,7 +3,7 @@
 Live Demo Url : https://netflix-clone-b13b0.web.app/
 
 <p align="center">
-<img src="https://i.imgur.com/30SWNZ2.jpg" alt="draw.io" width="400"/>
+<img src="https://i.imgur.com/30SWNZ2.jpg" alt="draw.io" width="700"/>
 </p>
 
 
